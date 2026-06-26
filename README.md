@@ -369,5 +369,6 @@ Output sau khi chạy Spark jobs lưu tại `data/parquet/`:
 ## 👤 Tác giả
 
 **Nguyễn Phước Khang**
+📧 Email: khangnguyen2x0@gmail.com
 Đồ án môn: Hệ thống Dữ liệu Lớn (Big Data Systems)
 Tài liệu báo cáo: `docs/bigdata_NPKhang.docx`
