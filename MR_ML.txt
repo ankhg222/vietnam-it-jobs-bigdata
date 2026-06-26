@@ -1,0 +1,56 @@
+Người 1: Nhóm Window Functions & Pivot Cơ bản
+
+Job 1: mr_location.py (Dễ - GroupBy, Count).
+Job 11: mr_cross_tabulation.py (Trung bình - Explode, Pivot).
+Job 5: mr_yoe_salary_correlation.py (Khó - Bucketing, Window LAG).
+
+Người 2: Nhóm Window Rank & Broadcast
+
+Job 2: mr_top_skills.py (Dễ - Explode cơ bản).
+Job 10: mr_top_paying_jobs.py (Trung bình - Window Partition, Row_number).
+Job 6: mr_company_hiring.py (Khó - Aggregate mảng, Broadcast Variables).
+Người 3: Nhóm Thống kê & Thuật toán
+
+Job 12: mr_salary_bracketing.py (Dễ - F.when, Bucketing tự động).
+Job 3: mr_salary_by_level.py (Trung bình - Các hàm thống kê min/max/percentile).
+Job 13: mr_skill_rarity.py (Khó - Tính toán Custom Formula Log/TF-IDF).
+Người 4: Nhóm Đa Chiều & Khối Dữ Liệu (OLAP)
+
+Job 4: mr_salary_by_skill.py (Dễ/Trung bình - Lọc nhiễu, Tỷ lệ).
+Job 7: mr_remote_analysis.py (Trung bình/Khó - PIVOT so sánh chéo).
+Job 15: mr_olap_cube.py (Khó - ROLLUP/CUBE 3 chiều).
+Người 5: Nhóm Bất Thường & Khai Phá
+
+Job 8: mr_job_level_distribution.py (Trung bình - Ma trận Pivot nguồn).
+Job 14: mr_salary_outliers.py (Khó - Tính IQR, Self-Join).
+Job 9: mr_skill_cooccurrence.py (Rất Khó - Bóc tách tổ hợp/Market Basket).
+
+
+
+
+Người 1: Quy luật & Dự đoán (1 Dễ + 1 Khó)
+
+Job 1: dm_association_rules.py (Dễ - Apriori).
+Job 3: dm_salary_prediction.py (Khó - Compare LR/RF/XGBoost).
+
+
+Người 2: Bóc tách NLP & Cụm Từ (1 Dễ + 1 Khó)
+
+Job 8: dm_information_extraction.py (Dễ - Regex/Rules NLP).
+Job 4: dm_text_mining.py (Khó - LDA Topic Modeling phức tạp).
+
+
+Người 3: Thống kê Từ khóa & Đồ thị (1 Dễ + 1 Khó)
+
+Job 10: dm_level_profiling.py (Dễ - TF-IDF WordCloud).
+Job 7: dm_network_analysis.py (Khó - Graph/PageRank Algorithms).
+Người 4: Gom cụm & Đánh giá (1 Trung bình + 1 Khó)
+
+Job 2: dm_job_clustering.py (Trung bình - K-Means).
+Job 11: dm_complexity_scoring.py (Khó - K-Means + Tính điểm độ khó).
+Người 5: Phân loại Văn bản - Text Classification (2 Trung bình)
+
+Job 6: dm_level_classification.py (Trung bình - Random Forest Level).
+Job 9: dm_role_classification.py (Trung bình - TF-IDF Role).
+
+

@@ -1,0 +1,20 @@
+=== TEXT MINING REPORT ===
+
+Total documents: 2064
+Number of topics: 5
+
+Topic 0:
+experience, working, salary, work, development, annual, skills, insurance, team, year
+
+Topic 1:
+experience, data, technical, work, team, product, business, development, design, strong
+
+Topic 2:
+hệ_thống, dữ_liệu, yêu_cầu, xây_dựng, quản_lý, triển_khai, phát_triển, phân_tích, dự_án, thiết_kế
+
+Topic 3:
+khách_hàng, giải_pháp, sản_phẩm, kinh_doanh, phát_triển, xây_dựng, công_ty, tư_vấn, hàng, triển_khai
+
+Topic 4:
+làm_việc, năm, kinh_nghiệm, phát_triển, lương, ngày, môi_trường, thưởng, cơ_hội, công_ty
+
