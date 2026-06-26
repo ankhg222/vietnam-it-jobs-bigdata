@@ -72,13 +72,13 @@
 ## 📁 Cấu trúc thư mục
 
 ```
-JOB_MARKET_BIGDATA/
+/
 │
 ├── crawler/                         # Thu thập dữ liệu
 │   ├── itviec_job/itviec.py         #   Crawler ITviec (Selenium + Cookie)
 │   ├── topdev/                      #   Crawler TopDev
 │   ├── vietnamwork/                 #   Crawler VietnamWorks
-│   └── architecture_diagram.py     #   Sơ đồ kiến trúc crawler
+│ 
 │
 ├── data/
 │   ├── raw/                         # Dữ liệu thô từ crawler
@@ -367,8 +367,8 @@ Output sau khi chạy Spark jobs lưu tại `data/parquet/`:
 ---
 
 ## 👤 Tác giả
-
-**Nguyễn Phước Khang**
-📧 Email: khangnguyen2x0@gmail.com
-Đồ án môn: Hệ thống Dữ liệu Lớn (Big Data Systems)
-Tài liệu báo cáo: `docs/bigdata_NPKhang.docx`
+| | |
+|---|---|
+| **Họ và tên** | Nguyễn Phước Khang |
+| **📧 Email** | khangnguyen2x0@gmail.com |
+| **📚 Môn học** | Hệ thống Dữ liệu Lớn (Big Data Systems) |
