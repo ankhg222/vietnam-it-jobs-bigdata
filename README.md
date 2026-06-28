@@ -83,7 +83,7 @@
 ├── data/
 │   ├── raw/                         # Dữ liệu thô từ crawler
 │   ├── processed/
-│   │   └── Data_ITJOB_Cleaned.csv  # Dataset đã làm sạch (~3.5 MB, ~16k rows)
+│   │   └── Data_ITJOB_Cleaned.csv  # Dataset đã làm sạch (~3.5 MB, ~2k rows)
 │   ├── parquet/                     # Output Parquet + TXT từ Spark jobs
 │   └── mining_results/             # Kết quả Data Mining
 │
